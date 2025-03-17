@@ -24,7 +24,7 @@ Ce projet est une application web développée en **Spring Boot**, **Spring MVC*
 ```sh
 ├── src
 │   ├── main
-│   │   ├── java/ma/enset/hospitalapp
+│   │   ├── java/ma/enset/GestionPatients
 │   │   │   ├── entities (Modele Patient)
 │   │   │   ├── repositories (Acces aux donnees)
 │   │   │   ├── web (Rest Services)
